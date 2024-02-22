@@ -1,0 +1,2 @@
+pruning_keep_recent="1000" 
+pruning_interval="100"
